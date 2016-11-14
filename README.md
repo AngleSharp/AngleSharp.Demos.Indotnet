@@ -4,6 +4,10 @@ Simple and sweet demonstration playground for AngleSharp as shown in the Indotne
 
 If you have anything to add to the demo, then feel free to do so. Push requests are always highly appreciated.
 
+## Companion Slides
+
+The slides for the talk can be found at [talks.florian-rappl.de/AngleSharp-Indotnet/](http://talks.florian-rappl.de/AngleSharp-Indotnet/?full#final). They are rather sparse and do not provide the full information spread during the talk.
+
 ## Running the Sample
 
 The demo is a Visual Studio 2015 solution that uses C# 6 together with the AngleSharp library. For demonstration purposes also the AngleSharp.Scripting.JavaScript library has been loaded.
